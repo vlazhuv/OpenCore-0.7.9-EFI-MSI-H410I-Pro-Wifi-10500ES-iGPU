@@ -1,5 +1,5 @@
 # OpenCore-0.7.9-EFI-MSI-H410I-Pro-Wifi-10500ES-iGPU
-# macOS Monterey 12.1
+# macOS Monterey 12.2.1
 # Hackintosh
 
 ## 配置
